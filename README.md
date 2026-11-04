@@ -1,12 +1,15 @@
-# Robotzade.az - offline visual preview
+# Robotzade.az - offline visual preview (400 pages)
 
-A small, self-contained slice of the robotzade.az storefront (120 pages: home, category
-listing, category pages, sample products, cart, search, contact, campaigns, blog) plus only
-the CSS/JS/images those pages reference. Open `robotzade.az/index.html`.
+A browsable slice of the robotzade.az storefront: 400 pages (home, category listing,
+category pages, product pages, cart, search, contact, campaigns, blog) plus exactly the
+CSS/JS/images those pages reference. 277 MB, 3,900 files.
 
-This is a mirror of a third-party shop, kept for study. It is not the live store and takes no
-orders: cart, login and checkout are static snapshots.
+Start here: [robotzade.az/index.html](robotzade.az/index.html)
+Live view: https://eldar-test-web.github.io/robotzade-preview/
 
-Built by walking link references out from a fixed entry list, so pages not in the slice
-return 404 here. The complete copy lives in
+Built by walking references out from a fixed entry list, so pages outside the slice 404
+here. The complete copy (3,363 pages) is in
 [robotzade-mirror](https://github.com/Eldar-test-web/robotzade-mirror).
+
+This mirrors a third-party shop for study. It is not the live store: cart, login and
+checkout are static snapshots and take no orders.
